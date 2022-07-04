@@ -1,0 +1,67 @@
+body{
+    margin:50px; 
+}
+#org{
+    color: orange;
+}
+.s1{
+    display: flex;
+    margin-bottom: 150px;
+}
+.bodypic{
+    width:100%; 
+    padding-right: -40%;
+}
+.bodypic img{
+    width: 40%;
+}
+.link1{
+    text-decoration: none;
+    background-image: radial-gradient(circle, #FFE0E9 20% , #FF7AA2 100%, #602437 100%);
+    padding: 7px 25px;
+    border-radius: 30px;
+}
+.girl img{
+    width: 30%;
+}
+#img3{
+    width: 50%;
+}
+.recipies1{
+    display: flex;
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+}
+.food1{
+    margin: 5px;
+    border: 1px transparent black;
+    border-radius: 35px;
+    box-shadow: 10px 10px 40px grey;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+.sc{
+    padding-left: 4%;
+    padding-right: 4%;
+    text-align: justify;
+}
+.last1{
+    display: flex;
+    gap:35%;
+    border: 1px transparent gray;
+    box-shadow: 10px 10px 40px grey;
+    padding: 2rem 10rem;
+
+}
+.lst{
+    margin-left: 25%;
+    border: 1px solid black;
+    border-radius: 35px;
+    box-shadow: 10px 10px 40px grey;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+.bck{
+    background-image:url(images/Frame\ 58.jpg);
+}
