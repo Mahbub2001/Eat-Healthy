@@ -54,14 +54,6 @@ body{
     padding: 2rem 10rem;
 
 }
-.lst{
-    margin-left: 25%;
-    border: 1px solid black;
-    border-radius: 35px;
-    box-shadow: 10px 10px 40px grey;
-    padding: 1rem 1rem;
-    vertical-align: middle;
-}
 .bck{
     background-image:url(images/Frame\ 58.jpg);
 }
